@@ -1,0 +1,13 @@
+bin/
+*.clm
+*.brr
+*.bnk
+*.obj
+*.pic
+*.pal
+*.tmp
+*.sfc
+*.sym
+.wla*
+*.map
+linkfile
