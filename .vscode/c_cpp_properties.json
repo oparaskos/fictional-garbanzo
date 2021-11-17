@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "SNES",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\SNESDEV\\pvsneslib\\include"
+            ],
+            "defines": [
+                "_DEBUG"
+            ],
+            "cStandard": "c17",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
